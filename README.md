@@ -8,8 +8,8 @@ Created interactive dashboard to track and analyze online sales data
 
 
 ACTIONS:-
-*Used complex parameters to drill down in worksheet and
-customization using filters and slicers
+<LI> Used complex parameters to drill down in worksheet and
+customization using filters and slicers</LI>
 
 Created connections, join new tables, calculations to manipulate
 data and enable user driven parameters for visualizations
