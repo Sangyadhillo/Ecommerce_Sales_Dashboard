@@ -18,3 +18,6 @@ data and enable user driven parameters for visualizations</LI>
 visualization (bar chart, pie chart, donut chart,
 clustered bar chart, scatter chart, line chart,
 area chart, map, slicers, etc)</LI>
+
+
+link to the Dashboard: https://www.novypro.com/project/ecommerce-sales-dashboard-58
